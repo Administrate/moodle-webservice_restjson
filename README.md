@@ -1,6 +1,8 @@
 moodle-webservice_restjson
 ================================
 
+***This is a fork of [this plugin](https://github.com/wset/moodle-webservice_restjson) due to it no longer being maintained. This version of the plugin is not published to the moodle plugin directory and instead must be installed via zip upload.***
+
 REST webservice protocol based on the standard core REST webservice, but with added support for JSON & XML payloads
 and supports using HTTP ACCEPTS headers for determining response format.
 
